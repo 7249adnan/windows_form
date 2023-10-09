@@ -1,0 +1,15 @@
+C:\Users\Adnan iLogic\source\repos\ListBox_1\ListBox_1\bin\Debug\ListBox_1.exe.config
+C:\Users\Adnan iLogic\source\repos\ListBox_1\ListBox_1\bin\Debug\ListBox_1.exe
+C:\Users\Adnan iLogic\source\repos\ListBox_1\ListBox_1\bin\Debug\ListBox_1.pdb
+C:\Users\Adnan iLogic\source\repos\ListBox_1\ListBox_1\obj\Debug\ListBox_1.csproj.AssemblyReference.cache
+C:\Users\Adnan iLogic\source\repos\ListBox_1\ListBox_1\obj\Debug\ListBox_1.Form1.resources
+C:\Users\Adnan iLogic\source\repos\ListBox_1\ListBox_1\obj\Debug\ListBox_1.Properties.Resources.resources
+C:\Users\Adnan iLogic\source\repos\ListBox_1\ListBox_1\obj\Debug\ListBox_1.csproj.GenerateResource.cache
+C:\Users\Adnan iLogic\source\repos\ListBox_1\ListBox_1\obj\Debug\ListBox_1.csproj.CoreCompileInputs.cache
+C:\Users\Adnan iLogic\source\repos\ListBox_1\ListBox_1\obj\Debug\ListBox_1.exe
+C:\Users\Adnan iLogic\source\repos\ListBox_1\ListBox_1\obj\Debug\ListBox_1.pdb
+C:\Users\Adnan iLogic\source\repos\ListBox_1\ListBox_1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Adnan iLogic\source\repos\ListBox_1\ListBox_1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Adnan iLogic\source\repos\ListBox_1\ListBox_1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Adnan iLogic\source\repos\ListBox_1\ListBox_1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Adnan iLogic\source\repos\ListBox_1\ListBox_1\obj\Debug\ListBox_1.csproj.ResolveComReference.cache
