@@ -1,0 +1,17 @@
+C:\Users\Adnan iLogic\source\repos\treeView1\treeView1\bin\Debug\treeView1.exe.config
+C:\Users\Adnan iLogic\source\repos\treeView1\treeView1\bin\Debug\treeView1.exe
+C:\Users\Adnan iLogic\source\repos\treeView1\treeView1\bin\Debug\treeView1.pdb
+C:\Users\Adnan iLogic\source\repos\treeView1\treeView1\bin\Debug\MySql.Data.dll
+C:\Users\Adnan iLogic\source\repos\treeView1\treeView1\bin\Debug\System.Memory.dll
+C:\Users\Adnan iLogic\source\repos\treeView1\treeView1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Adnan iLogic\source\repos\treeView1\treeView1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Adnan iLogic\source\repos\treeView1\treeView1\bin\Debug\System.Buffers.dll
+C:\Users\Adnan iLogic\source\repos\treeView1\treeView1\bin\Debug\MySql.Data.xml
+C:\Users\Adnan iLogic\source\repos\treeView1\treeView1\obj\Debug\treeView1.csproj.AssemblyReference.cache
+C:\Users\Adnan iLogic\source\repos\treeView1\treeView1\obj\Debug\treeView1.Form1.resources
+C:\Users\Adnan iLogic\source\repos\treeView1\treeView1\obj\Debug\treeView1.Properties.Resources.resources
+C:\Users\Adnan iLogic\source\repos\treeView1\treeView1\obj\Debug\treeView1.csproj.GenerateResource.cache
+C:\Users\Adnan iLogic\source\repos\treeView1\treeView1\obj\Debug\treeView1.csproj.CoreCompileInputs.cache
+C:\Users\Adnan iLogic\source\repos\treeView1\treeView1\obj\Debug\treeView1.csproj.CopyComplete
+C:\Users\Adnan iLogic\source\repos\treeView1\treeView1\obj\Debug\treeView1.exe
+C:\Users\Adnan iLogic\source\repos\treeView1\treeView1\obj\Debug\treeView1.pdb
